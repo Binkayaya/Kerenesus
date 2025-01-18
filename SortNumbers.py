@@ -1,3 +1,4 @@
+var_num = 87
 max_num = int(input('How many numbers do you want to sort? '))
 sort_choice = str(input('How do you want to sort? Type A for ascending and D for descending order: '))
 
